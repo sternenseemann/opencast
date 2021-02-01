@@ -1,6 +1,8 @@
 Database Configuration
 ======================
 
+Change whatever you want!
+
 Opencast ships with embedded JDBC drivers for the H2, MySQL, MariaDB and PostgreSQL databases.
 The built-in H2 database is used by default and needs no configuration,
 but is not suited for production.
